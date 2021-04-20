@@ -28,7 +28,7 @@ MarkupSafe==1.1.1
 more-itertools==7.0.0
 placebo==0.9.0
 pluggy==0.9.0
-py==1.8.0
+py==1.10.0
 pycparser==2.19
 pytest==4.4.0
 python-dateutil==2.6.1
